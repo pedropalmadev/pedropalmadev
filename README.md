@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Pedro de Abreu Palma 😎
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-de-abreu-palma-28b779249/)
-<h1><a href="https://pedropalmadev.github.io/projeto-portifolio/" Portifólio </a></h1>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropalmadev&show_icons=true&theme=dark) [![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropalmadev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que pratico
@@ -12,4 +11,5 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
+<h1><a href="https://pedropalmadev.github.io/projeto-portifolio/" Portifólio </a></h1>
 </div>
